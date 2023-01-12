@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\vs2019\..\build\HW3\) 包含從其他專案 (HW3.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.cpp
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(172,21): warning C4018: '<': signed/unsigned 不相符
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(176,23): warning C4018: '<': signed/unsigned 不相符
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(178,79): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(179,80): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(180,74): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(185,72): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(280,46): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(281,43): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(282,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\src\main.cpp(283,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  HW3.vcxproj -> D:\Google Drive(YZU)\我的雲端硬碟\NYCU\Course\111-1 計算機圖學 Computer Graphics\Final Project\Group_02_code\bin\Final_Project.exe
